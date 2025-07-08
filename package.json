@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "@demo/dataswag-the-data-driven-apparel-configurator",
   "version": "1.0.1",
   "description": "A data-driven apparel configurator that allows users to customize clothing items with various decals and designs providing a seamless experience.",
@@ -16,21 +15,6 @@
     "react",
     "three.js",
     "user experience"
-=======
-  "name": "@demo/hackaviz-dataviz-challenge",
-  "version": "1.0.0",
-  "description": "Submission for the Hackaviz data visualization challenge",
-  "homepage": "https://brooks-code.github.io/miniature-fortnight",
-  "keywords": [
-    "dataviz",
-    "swag",
-    "decals",
-    "three.js",
-    "joyplot",
-    "swag",
-    "clothes customization",
-    "3D"
->>>>>>> f818dca796ecd70b49873439254d5626d49738a1
   ],
   "dependencies": {
     "@react-three/drei": "^9.109.5",
