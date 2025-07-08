@@ -1,10 +1,20 @@
 {
-  "name": "@demo/t-shirt-configurator",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@demo/dataswag-the-data-driven-apparel-configurator",
+  "version": "1.0.1",
+  "description": "A data-driven apparel configurator that allows users to customize clothing items with various decals and designs providing a seamless experience.",
   "homepage": "https://brooks-code.github.io/miniature-fortnight",
   "keywords": [
-    "decals"
+    "apparel",
+    "3D",
+    "decals",
+    "data-driven",
+    "fashion",
+    "configurator",
+    "interactive design",
+    "personalization",
+    "react",
+    "three.js",
+    "user experience"
   ],
   "dependencies": {
     "@react-three/drei": "^9.109.5",
@@ -32,7 +42,7 @@
     "build": "tsc && vite build",
     "build2": "tsc && e2e-build $npm_package_name",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --depth=1"
   },
   "browserslist": [
     ">1%",

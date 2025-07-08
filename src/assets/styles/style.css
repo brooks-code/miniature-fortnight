@@ -359,23 +359,31 @@ button:hover,
 }
 
 .legend {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  text-justify: inter-word;  
   margin-top: 1rem;
   font-family: 'Noto Sans', sans-serif;
   font-size: 0.75rem;
   line-height: 1.1rem;
-  text-align:left;
+  text-align-last: left;
 }
 
 
 /* Slideshow styles inside Decal Panel */
 .slideshow-container {
   position: relative;
+  width: 100%;
+  height: 50vh;         /* lock the height of the slide area */
+  overflow: hidden;     /* optional, in case images overflow */
   text-align: center;
 }
 
 .decal-image {
   max-width: 100%;
-  max-height: 50vh;
+  max-height: 100%;     /* now bound by the 50vh container */
   object-fit: contain;
   cursor: pointer;
 }
