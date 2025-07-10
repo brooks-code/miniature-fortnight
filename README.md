@@ -7,7 +7,8 @@
 
 This data-driven apparel (t‐shirts or bags) is inspired by the flooding dataset of the [hackaviz 2025](https://toulouse-dataviz.fr/hackaviz/2025-contest/) competition. You can pick decal flavors, and download your custom design as a snapshot.
 
-- And if you're curious about the **journey from data processing to visualization**: follow the white rabbit **[into the processing section ♘](/processing/README.md)!**
+> [!NOTE]
+If you're curious about the **journey from data processing to visualization**: follow the white rabbit [down the processing section ♘](/processing/README.md)!
 
 ## Table of contents
 
@@ -84,7 +85,9 @@ Mobile‐friendly layout & proper `alt` text on images & buttons.
 .
 ├── processing 
 │   └── ... # The data processing notebook. More about it below.
-├── public 
+├── public
+│   ├── cinema 
+│   │   └── ...                    # Kino mode
 │   └── ...
 ├── src
 │   ├── assets
@@ -96,8 +99,6 @@ Mobile‐friendly layout & proper `alt` text on images & buttons.
 │   │   │   └── randomGradient.js
 │   │   └── styles
 │   │       └── style.css
-│   ├── cinema 
-│   │   └── ...                    # Kino mode
 │   ├── components
 │   │   ├── ThreeDScene.jsx        # Three.js scene wrapper
 │   │   ├── Overlay.jsx            # Main UI overlay & Customizer
@@ -209,8 +210,7 @@ In the `package.json`, add a `homepage` property pointing to the repo’s pages 
 {
   "name": "a-name-here",
   "version": "1.0.0",
-  "homepage": "https://your-username.github.io/repo-name",
-  // …
+  "homepage": "https://your-username.github.io/repo-name"
 }
 ```
 
@@ -329,7 +329,8 @@ Commit this file and push—GitHub actions will handle your build & deployment o
 
 ## Data telltales: crafting striking visuals and a storytelling from raw data
 
-![Footer Image](</processing/img/data_vinyl.png> "A data vinyl") ♫ unknown pleasures (1979)
+![Footer Image](</processing/img/data_vinyl.png> "A data vinyl")
+<br>♫ unknown pleasures (1979)
 
 Got some data nerd vibes? Are you curious about how I achieved these results and generated these visuals? Perhaps you even want to try by yourself and go further? All the information and codebase you need is available in the [processing section](/processing/README.md)! See you there.
 
@@ -355,6 +356,13 @@ Contributions are welcome.
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+### Security warning
+
+> [!Warning]
+> ⚠️ Users may be tricked into cloning a similarly named repository (also known as [repo-confusion attack](https://securityboulevard.com/2024/02/github-repo-confusion-supply-chain-richixbw/).
+> I am not affiliated in any way with that one: 'https://github.com/solotech143/miniature-fortnight'
+> Always double-check the URL, usernames and contents before installing anything! (brk)
 
 ### Acknowledgements
 
