@@ -4,6 +4,6 @@ I take security issues very seriously. Do not hesitate to report any kind of iss
 
 ## Reporting a Vulnerability
 
-Navigate to the [GitHub Advisories page](https://github.com/brooks-code/miniature-fortnight/security/advisories) for this repository and click *'Report a Vulnerability'*.
+Navigate to the security tab of this repository (above, next to "insights") and click *Report a vulnerability*.
 
 Takk!
