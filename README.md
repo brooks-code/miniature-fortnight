@@ -361,8 +361,8 @@ This project is licensed under the [MIT License](/LICENSE).
 
 > [!Warning]
 > ⚠️ Users may be tricked into cloning a similarly named repository (also known as [repo-confusion attack](https://securityboulevard.com/2024/02/github-repo-confusion-supply-chain-richixbw/).
-> I am not affiliated in any way with that one: ~~'https://github.com/solotech143/miniature-fortnight'~~ *(reported and taken down)*
-> Always double-check the URL, usernames and contents before installing anything! (brk)
+> I am not affiliated in any way with that one: ~~'https://github.com/solotech143/miniature-fortnight'~~ *(reported and taken down)*.
+> <br>Always double-check the URL, usernames and contents before installing anything! (brk)
 
 A cheat-sheet is available here: [repo-confusion](https://github.com/brooks-code/repo-confusion-guard)
 
