@@ -3,7 +3,7 @@
 **Customizable T-Shirt designs (and more..) with three.js**
 
 ![Banner Image](</processing/img/tshirt_mysterious.png> "A custom tshirt with a mysterious teaser message")
-<br>*Teste la version interactive sur... https://brooks-code.github.io/miniature-fortnight*
+<br>*Teste la version interactive sur... https://hyperphantasia.github.io/miniature-fortnight*
 
 This data-driven apparel (t‐shirts or bags) is inspired by the flooding dataset of the [hackaviz 2025](https://toulouse-dataviz.fr/hackaviz/2025-contest/) competition. You can pick decal flavors, and download your custom design as a snapshot.
 
@@ -46,7 +46,7 @@ If you're curious about the **journey from data processing to visualization**: f
 
 ## Demo
 
-A complete demo is [available here](https://brooks-code.github.io/miniature-fortnight).
+A complete demo is [available here](https://hyperphantasia.github.io/miniature-fortnight).
 
 ## Features
 
@@ -123,7 +123,7 @@ Mobile‐friendly layout & proper `alt` text on images & buttons.
 Clone the repo:
 
 ```bash
-git clone https://github.com/brooks-code/miniature-fortnight.git
+git clone https://github.com/hyperphantasia/miniature-fortnight.git
 cd miniature-fortnight
 ```
 
@@ -364,7 +364,7 @@ This project is licensed under the [MIT License](/LICENSE).
 > I am not affiliated in any way with that one: ~~'https://github.com/solotech143/miniature-fortnight'~~ *(reported and taken down)*.
 > <br>Always double-check the URL, usernames and contents before installing anything! (brk)
 
-A cheat-sheet is available here: [repo-confusion](https://github.com/brooks-code/repo-confusion-guard)
+A cheat-sheet is available here: [repo-confusion](https://github.com/hyperphantasia/repo-confusion-guard)
 
 ### Acknowledgements
 

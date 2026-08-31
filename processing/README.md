@@ -105,7 +105,7 @@ source dataswag/bin/activate
 Clone the repository and navigate to the processing folder:
 
 ```bash
-git clone https://github.com/brooks-code/miniature-fortnight.git
+git clone https://github.com/hyperphantasia/miniature-fortnight.git
 cd miniature-fortnight/processing
 ```
 

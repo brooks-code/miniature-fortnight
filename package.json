@@ -2,7 +2,7 @@
   "name": "@demo/dataswag-the-data-driven-apparel-configurator",
   "version": "1.0.1",
   "description": "A data-driven apparel configurator that allows users to customize clothing items with various decals and designs providing a seamless experience.",
-  "homepage": "https://brooks-code.github.io/miniature-fortnight",
+  "homepage": "https://hyperphantasia.github.io/miniature-fortnight",
   "keywords": [
     "apparel",
     "3D",
@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/brooks-code/miniature-fortnight"
+    "url": "https://github.com/hyperphantasia/miniature-fortnight"
   },
   "type": "module"
 }
